@@ -7,4 +7,5 @@ If you come across an issue while reading the book, please [visit this page](htt
 
 ## Book Updates
 
+- **May 29, 2013:** Added new section to Testing Models chapter: *Simple Query Methods*
 - **May 29, 2013:** Added new question to FAQ chapter: *I Prefer Using Underscores For Test Names. Is That Okay?*
