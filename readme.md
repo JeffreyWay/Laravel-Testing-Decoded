@@ -7,6 +7,7 @@ If you come across an issue while reading the book, please [visit this page](htt
 
 ## Book Updates
 
+- **June 5, 2013:** Added new chapter: *Contributing to Laravel Using TDD*
 - **June 3, 2013:** Updated *Chapter 8: Testing Controllers* to not use `Input::replace()`
 - **May 29, 2013:** Added new section to Testing Models chapter: *Simple Query Methods*
 - **May 29, 2013:** Added new question to FAQ chapter: *I Prefer Using Underscores For Test Names. Is That Okay?*
